@@ -1,0 +1,10 @@
+{"Title": "GAME OF LIVES","Subtitle": "A Simulation of Two-Dimensional Lives",
+  "Author": "<Created by Boyuan Cui>",
+  "Credit": "_Originally created by John Conway in 1960s_",
+  "width": "Width of the Board:", "height":  "Height of the Board:",
+  "lives": "Number of Lives Generated:", "create": "Generate the Board",
+  "breed": "Generate Lives",
+"refresh": "Enter next day", "clear": "Clear Board","invalid title": "Invalid input",
+  "invalid content": "All the input should be positive integers",
+  "impossible title": "Impossible to generate",
+  "impossible content": "Number of lives generated need to be smaller than the capacity of the board"}
